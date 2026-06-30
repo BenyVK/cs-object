@@ -30,8 +30,8 @@ A lightweight, cross-platform **.OBJ 3D model viewer** built in C# with [Silk.NE
 ## Getting Started
 
 ```bash
-git clone https://github.com/BenyVK/ObjViewer.git
-cd ObjViewer/ObjViewer
+git clone https://github.com/BenyVK/cs-object.git
+cd FolderNames Project
 dotnet run
 ```
 
