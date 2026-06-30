@@ -1,0 +1,5 @@
+C:\ObjViewer\obj\Debug\net10.0-windows\ObjViewer.csproj.AssemblyReference.cache
+C:\ObjViewer\obj\Debug\net10.0-windows\ObjViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ObjViewer\obj\Debug\net10.0-windows\ObjViewer.AssemblyInfoInputs.cache
+C:\ObjViewer\obj\Debug\net10.0-windows\ObjViewer.AssemblyInfo.cs
+C:\ObjViewer\obj\Debug\net10.0-windows\ObjViewer.csproj.CoreCompileInputs.cache
