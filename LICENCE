@@ -1,0 +1,66 @@
+# BenyVK Open-Source License (BVK-1.1)
+
+Copyright (c) 2026 BenyVK (https://t.me/OpenSamp)
+
+This license is an enhanced revision of BVK-1.0. It is more restrictive and more enforceable than the prior version, particularly regarding network/SaaS use, patents, and termination.
+
+## 0. Definitions
+
+- **"Software"** means the original work of authorship made available under this License, including all source code, object code, documentation, and associated files.
+- **"Derivative Work"** means any work that is based on, incorporates, links to (statically or dynamically), is compiled with, or is otherwise derived from the Software, in whole or in part, regardless of the programming language or form (source, object, compiled, minified, obfuscated, or transformed).
+- **"Distribute"** means to make the Software or a Derivative Work available to any third party by any means, including but not limited to copying, publishing, hosting, providing as a network service (e.g., SaaS, API, or web application), bundling, or sublicensing.
+- **"You"** means any individual or legal entity exercising rights under this License.
+- **"Notice"** means the attribution credit specified in Section 2.
+
+## 1. Grant of Rights
+
+Subject to the conditions of this License, the copyright holder grants You a worldwide, royalty-free, non-exclusive license to use, copy, modify, merge, publish, Distribute, sublicense, and/or sell copies of the Software, provided that all conditions in Sections 2–5 are fully satisfied.
+
+## 2. Attribution (Mandatory)
+
+1. Any use, Distribution, or reproduction of the Software, in whole or in part, must retain the following Notice in a conspicuous and unobfuscated location:
+
+   > "This project uses code from BenyVK (https://t.me/OpenSamp)"
+
+2. The Notice must appear in **at least one** of the following locations, as applicable to the form of Distribution: the project's README or equivalent landing documentation; source code file headers for any file containing Software code; a `NOTICE` or `CREDITS` file included with the Distribution; or a visible "About," "Credits," or "Settings" section of the user interface, if the Software has one.
+3. The Notice must not be removed, shortened, obfuscated, minified away, or rendered inaccessible (e.g., hidden behind dead links, removed from minified/compiled builds without a corresponding NOTICE file, or placed only in a commit history).
+4. The Notice must be preserved in all Derivative Works, regardless of how extensively the Software has been modified.
+
+## 3. Copyleft and Network Use (Strong / AGPL-style)
+
+1. **Same license required.** Any Derivative Work must be licensed in its entirety under this exact License (BVK-1.1), with no additional restrictions placed on downstream recipients.
+2. **Source availability.** The complete, corresponding source code of any Derivative Work — including all modifications — must be made publicly and freely available under this License (e.g., via a public Git repository) at no cost, for as long as the Derivative Work is Distributed.
+3. **Network use is Distribution.** If You modify the Software and make the modified version available to third parties over a network (including as a hosted service, SaaS, bot, or API), that constitutes Distribution under this License. You must provide those third parties a prominent, accessible means (e.g., a link in the interface) to obtain the complete corresponding source code of the modified version, free of charge.
+4. **No additional restrictions.** You may not impose any further legal or technical restriction (including DRM, additional license terms, or contractual terms) that prevents recipients from exercising the rights granted in this License.
+
+## 4. Patent Grant and Retaliation
+
+1. Each contributor grants You a non-exclusive, worldwide, royalty-free patent license under any patent claims it owns or controls that are necessarily infringed by the Software, to make, use, sell, and Distribute the Software.
+2. If You initiate patent litigation against any party alleging that the Software, or a Derivative Work, infringes a patent, all patent licenses granted to You under this License terminate immediately.
+
+## 5. Trademark
+
+This License does not grant permission to use the name "BenyVK," any associated logos, or the Telegram handle referenced above, except as required by the Attribution clause in Section 2. No endorsement by BenyVK of any Derivative Work or use is implied.
+
+## 6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 7. Termination
+
+1. Any breach of Sections 2, 3, 4, or 5 automatically and immediately terminates all rights granted to You under this License, without notice.
+2. Rights may be reinstated only if the copyright holder explicitly and in writing restores them, or if You cure the violation and the copyright holder, in their sole discretion, provides written reinstatement.
+3. Termination of this License does not terminate the licenses of third parties who received copies or rights from You in compliance with this License, provided they remain in full compliance.
+4. Sections 5, 6, 8, and 9 survive termination of this License.
+
+## 8. Governing Law and Enforcement
+
+1. This License shall be governed by and construed in accordance with the laws applicable to the copyright holder's jurisdiction, without regard to conflict-of-law principles, unless otherwise agreed in writing.
+2. The copyright holder reserves the right to seek injunctive relief, in addition to any other remedy available at law or in equity, in the event of a violation of this License.
+3. If any provision of this License is held unenforceable, the remaining provisions remain in full force, and the unenforceable provision shall be reformed to the minimum extent necessary to make it enforceable.
+
+## 9. Contact
+
+For questions, permissions beyond the scope of this License, or to negotiate alternative licensing terms, contact:
+
+BenyVK — https://t.me/OpenSamp
